@@ -1,2 +1,2 @@
 # tutorialTools
-training repo 
+training repo update
