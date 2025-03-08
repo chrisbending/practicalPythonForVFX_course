@@ -1,2 +1,2 @@
 # tutorialTools
-training repo update
+Welcome to the Practical Python for VFX repo
